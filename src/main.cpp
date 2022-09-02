@@ -10,4 +10,6 @@ int main(int argc, char *argv[])
 
 	std::cout << "测试diff" << std::endl;
 	std::cout << "对比项目" << std::endl;
+
+	std::cout << "测试分支HEAD" << std::endl;
 }
